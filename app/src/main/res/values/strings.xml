@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CalculadoraPersonagensGLA</string>
+
+    <string name="Baby_5">Baby 5</string>
+    <string name="Bartolomeo">Bartolomeo</string>
+    <string name="Basil_hawkins">Basil Hawkins</string>
+    <string name="Bastille">Bastille</string>
+    <string name="Bellamy">Bellamy</string>
+    <string name="Blueno">Blueno</string>
+    <string name="Bonney">Bonney</string>
+    <string name="Brook">Brook</string>
+    <string name="Capone">Capone</string>
+    <string name="Carrot">Carrot</string>
+    <string name="Chopper">Chopper</string>
+    <string name="Crocodile">Crocodile</string>
+    <string name="Dalmatian">Dalmatian</string>
+    <string name="Franky">Franky</string>
+    <string name="Moria">Moria</string>
+    <string name="Hina">Hina</string>
+    <string name="Burgess">Burgess</string>
+    <string name="Kid">Kid</string>
+    <string name="Killer">Killer</string>
+    <string name="Koala">Koala</string>
+    <string name="Leo">Leo</string>
+    <string name="Luffy">Luffy</string>
+    <string name="Nami">Nami</string>
+    <string name="Perona">Perona</string>
+    <string name="Rebeca">Rebeca</string>
+    <string name="Robin">Robin</string>
+    <string name="Zoro">Zoro</string>
+    <string name="Ryuma">Ryuma</string>
+    <string name="Apoo">Apoo</string>
+    <string name="Smoker">Smoker</string>
+    <string name="Law">Law</string>
+    <string name="Urouge">Urouge</string>
+    <string name="Usopp">Usopp</string>
+    <string name="Van_Augur">Van Augur</string>
+    <string name="Ichiji">Ichiji</string>
+    <string name="Niji">Niji</string>
+    <string name="Reiju">Reiju</string>
+    <string name="Sanji">Sanji</string>
+    <string name="Yonji">Yonji</string>
+    <string name="Drake">Drake</string>
+    <string name="Kalifa">Kalifa</string>
+    <string name="Jabra">Jabra</string>
+    <string name="Kaku">Kaku</string>
+    <string name="Rob_Lucci">Rob Lucci</string>
+
+</resources>
