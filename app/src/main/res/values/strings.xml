@@ -1,49 +1,49 @@
 <resources>
-    <string name="app_name">CalculadoraPersonagensGLA</string>
+    <string name="app_name">ConquistasGLA</string>
 
-    <string name="Baby_5">Baby 5</string>
-    <string name="Bartolomeo">Bartolomeo</string>
-    <string name="Basil_hawkins">Basil Hawkins</string>
-    <string name="Bastille">Bastille</string>
-    <string name="Bellamy">Bellamy</string>
-    <string name="Blueno">Blueno</string>
-    <string name="Bonney">Bonney</string>
-    <string name="Brook">Brook</string>
-    <string name="Capone">Capone</string>
-    <string name="Carrot">Carrot</string>
-    <string name="Chopper">Chopper</string>
-    <string name="Crocodile">Crocodile</string>
-    <string name="Dalmatian">Dalmatian</string>
-    <string name="Franky">Franky</string>
-    <string name="Moria">Moria</string>
-    <string name="Hina">Hina</string>
-    <string name="Burgess">Burgess</string>
-    <string name="Kid">Kid</string>
-    <string name="Killer">Killer</string>
-    <string name="Koala">Koala</string>
-    <string name="Leo">Leo</string>
-    <string name="Luffy">Luffy</string>
-    <string name="Nami">Nami</string>
-    <string name="Perona">Perona</string>
-    <string name="Rebeca">Rebeca</string>
-    <string name="Robin">Robin</string>
-    <string name="Zoro">Zoro</string>
-    <string name="Ryuma">Ryuma</string>
-    <string name="Apoo">Apoo</string>
-    <string name="Smoker">Smoker</string>
-    <string name="Law">Law</string>
-    <string name="Urouge">Urouge</string>
-    <string name="Usopp">Usopp</string>
-    <string name="Van_Augur">Van Augur</string>
-    <string name="Ichiji">Ichiji</string>
-    <string name="Niji">Niji</string>
-    <string name="Reiju">Reiju</string>
-    <string name="Sanji">Sanji</string>
-    <string name="Yonji">Yonji</string>
-    <string name="Drake">Drake</string>
-    <string name="Kalifa">Kalifa</string>
-    <string name="Jabra">Jabra</string>
-    <string name="Kaku">Kaku</string>
-    <string name="Rob_Lucci">Rob Lucci</string>
+    <string name="Baby_5" translatable="false">Baby 5</string>
+    <string name="Bartolomeo" translatable="false">Bartolomeo</string>
+    <string name="Basil_hawkins" translatable="false">Basil Hawkins</string>
+    <string name="Bastille" translatable="false">Bastille</string>
+    <string name="Bellamy" translatable="false">Bellamy</string>
+    <string name="Blueno" translatable="false">Blueno</string>
+    <string name="Bonney" translatable="false">Bonney</string>
+    <string name="Brook" translatable="false">Brook</string>
+    <string name="Capone" translatable="false">Capone</string>
+    <string name="Carrot" translatable="false">Carrot</string>
+    <string name="Chopper" translatable="false">Chopper</string>
+    <string name="Crocodile" translatable="false">Crocodile</string>
+    <string name="Dalmatian" translatable="false">Dalmatian</string>
+    <string name="Franky" translatable="false">Franky</string>
+    <string name="Moria" translatable="false">Moria</string>
+    <string name="Hina" translatable="false">Hina</string>
+    <string name="Burgess" translatable="false">Burgess</string>
+    <string name="Kid" translatable="false">Kid</string>
+    <string name="Killer" translatable="false">Killer</string>
+    <string name="Koala" translatable="false">Koala</string>
+    <string name="Leo" translatable="false">Leo</string>
+    <string name="Luffy" translatable="false">Luffy</string>
+    <string name="Nami" translatable="false">Nami</string>
+    <string name="Perona" translatable="false">Perona</string>
+    <string name="Rebeca" translatable="false">Rebeca</string>
+    <string name="Robin" translatable="false">Robin</string>
+    <string name="Zoro" translatable="false">Zoro</string>
+    <string name="Ryuma" translatable="false">Ryuma</string>
+    <string name="Apoo" translatable="false">Apoo</string>
+    <string name="Smoker" translatable="false">Smoker</string>
+    <string name="Law" translatable="false">Law</string>
+    <string name="Urouge" translatable="false">Urouge</string>
+    <string name="Usopp" translatable="false">Usopp</string>
+    <string name="Van_Augur" translatable="false">Van Augur</string>
+    <string name="Ichiji" translatable="false">Ichiji</string>
+    <string name="Niji" translatable="false">Niji</string>
+    <string name="Reiju" translatable="false">Reiju</string>
+    <string name="Sanji" translatable="false">Sanji</string>
+    <string name="Yonji" translatable="false">Yonji</string>
+    <string name="Drake" translatable="false">Drake</string>
+    <string name="Kalifa" translatable="false">Kalifa</string>
+    <string name="Jabra" translatable="false">Jabra</string>
+    <string name="Kaku" translatable="false">Kaku</string>
+    <string name="Rob_Lucci" translatable="false">Rob Lucci</string>
 
 </resources>

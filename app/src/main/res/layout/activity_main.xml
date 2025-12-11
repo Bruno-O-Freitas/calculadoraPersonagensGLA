@@ -15,7 +15,7 @@
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toEndOf="@+id/dalmatianButton"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/cardBastille" />
+        app:srcCompat="@drawable/card_bastille" />
 
     <ImageButton
         android:id="@+id/dalmatianButton"
