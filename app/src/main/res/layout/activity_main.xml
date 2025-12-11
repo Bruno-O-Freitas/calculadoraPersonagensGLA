@@ -15,7 +15,8 @@
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toEndOf="@+id/dalmatianButton"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/card_bastille" />
+        app:srcCompat="@drawable/card_bastille"
+        android:contentDescription="@string/Bastille"/>
 
     <ImageButton
         android:id="@+id/dalmatianButton"
@@ -25,7 +26,8 @@
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/card_dalmatian" />
+        app:srcCompat="@drawable/card_dalmatian"
+        android:contentDescription="@string/Dalmatian"/>
 
     <ImageButton
         android:id="@+id/drakeButton"
@@ -35,7 +37,8 @@
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/dalmatianButton"
-        app:srcCompat="@drawable/card_drake" />
+        app:srcCompat="@drawable/card_drake"
+        android:contentDescription="@string/Drake"/>
 
     <ImageButton
         android:id="@+id/hinaButton"
@@ -45,7 +48,8 @@
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toEndOf="@+id/bastilleButton"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/card_hina" />
+        app:srcCompat="@drawable/card_hina"
+        android:contentDescription="@string/Hina"/>
 
     <ImageButton
         android:id="@+id/smokerButton"
@@ -55,28 +59,9 @@
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toEndOf="@+id/drakeButton"
         app:layout_constraintTop_toBottomOf="@+id/bastilleButton"
-        app:srcCompat="@drawable/card_smoker" />
+        app:srcCompat="@drawable/card_smoker"
+        android:contentDescription="@string/Smoker"/>
 
-    <ProgressBar
-        android:id="@+id/progressBar"
-        style="?android:attr/progressBarStyleHorizontal"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:max="5"
-        android:progress="@integer/material_motion_duration_long_1"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/smokerButton" />
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="19dp"
-        android:text="TextView"
-        app:layout_constraintBottom_toTopOf="@+id/progressBar"
-        app:layout_constraintEnd_toEndOf="@+id/progressBar" />
 
     <androidx.constraintlayout.widget.Group
         android:id="@+id/group"
